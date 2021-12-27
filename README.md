@@ -1,8 +1,8 @@
-### Hi there, I am Tiffany 👋
+## Hi there, I am Tiffany 👋
 
 I am a data engineer with an interest in science and data science. I enjoy working in spaces that utilize the intersection of science and technology that strive to advance societies. 
 
-My most recent projects include:
+## Most recent projects:
 
 1) A volunteer project to assist African refugees, where I created the data architecture for an fully functional application. <a href="https://github.com/TCarrPGH/deploy-impact-21-kona-a">Dots</a>
 2) A data science project that finds the snowline in Swiss hiking trails based on altitude and geographical location. I came up with this project because hiking in the autumn/spring in Switzerland can be difficult, challanging, or dangerous if suddenly, hours into a hike, the trail is covered in snow. On the other hand -- sometimes you may want to find a nice snow covered trail to hike on. <a href="https://github.com/TCarrPGH/bergfex_snow_alert">Bergfex Hiking</a>
